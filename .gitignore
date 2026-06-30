@@ -1,0 +1,14 @@
+# Build files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.7z
+
+# Visual Studio folders
+.vs/
+x64/
+x86/
+Debug/
+Release/
